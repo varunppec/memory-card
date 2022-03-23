@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4028e947.css",
-    "main.js": "/react-gh-pages/static/js/main.c0314403.js",
-    "static/media/pad-thai.png": "/react-gh-pages/static/media/pad-thai.0312ccb7e85de9007c58.png",
-    "static/media/bibimbap.png": "/react-gh-pages/static/media/bibimbap.a650e55ad66303109564.png",
-    "static/media/masala-dosa.png": "/react-gh-pages/static/media/masala-dosa.aa302437125eae349dbb.png",
-    "static/media/curry.png": "/react-gh-pages/static/media/curry.9bbe4c08f450d7fdd09f.png",
-    "static/media/burrito.png": "/react-gh-pages/static/media/burrito.abcddf2488886f4deee8.png",
-    "static/media/doughnut.png": "/react-gh-pages/static/media/doughnut.c999f7be1225c063b5a6.png",
-    "static/media/barbecue.png": "/react-gh-pages/static/media/barbecue.5f935f741bad921cab8e.png",
-    "static/media/nachos.png": "/react-gh-pages/static/media/nachos.30d3e63038bfe6e5e9cc.png",
-    "static/media/mochi.png": "/react-gh-pages/static/media/mochi.af1342f3cd4a02130992.png",
-    "static/media/boba.png": "/react-gh-pages/static/media/boba.f62109eab58922abc8ad.png",
-    "static/media/hot-dog.png": "/react-gh-pages/static/media/hot-dog.0d6fefc9711b9fe299e0.png",
-    "static/media/baguette.png": "/react-gh-pages/static/media/baguette.47e1d4d154d7371410f7.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.4028e947.css.map": "/react-gh-pages/static/css/main.4028e947.css.map",
-    "main.c0314403.js.map": "/react-gh-pages/static/js/main.c0314403.js.map"
+    "main.css": "/memory-card/static/css/main.4028e947.css",
+    "main.js": "/memory-card/static/js/main.fab08a69.js",
+    "static/media/pad-thai.png": "/memory-card/static/media/pad-thai.0312ccb7e85de9007c58.png",
+    "static/media/bibimbap.png": "/memory-card/static/media/bibimbap.a650e55ad66303109564.png",
+    "static/media/masala-dosa.png": "/memory-card/static/media/masala-dosa.aa302437125eae349dbb.png",
+    "static/media/curry.png": "/memory-card/static/media/curry.9bbe4c08f450d7fdd09f.png",
+    "static/media/burrito.png": "/memory-card/static/media/burrito.abcddf2488886f4deee8.png",
+    "static/media/doughnut.png": "/memory-card/static/media/doughnut.c999f7be1225c063b5a6.png",
+    "static/media/barbecue.png": "/memory-card/static/media/barbecue.5f935f741bad921cab8e.png",
+    "static/media/nachos.png": "/memory-card/static/media/nachos.30d3e63038bfe6e5e9cc.png",
+    "static/media/mochi.png": "/memory-card/static/media/mochi.af1342f3cd4a02130992.png",
+    "static/media/boba.png": "/memory-card/static/media/boba.f62109eab58922abc8ad.png",
+    "static/media/hot-dog.png": "/memory-card/static/media/hot-dog.0d6fefc9711b9fe299e0.png",
+    "static/media/baguette.png": "/memory-card/static/media/baguette.47e1d4d154d7371410f7.png",
+    "index.html": "/memory-card/index.html",
+    "main.4028e947.css.map": "/memory-card/static/css/main.4028e947.css.map",
+    "main.fab08a69.js.map": "/memory-card/static/js/main.fab08a69.js.map"
   },
   "entrypoints": [
     "static/css/main.4028e947.css",
-    "static/js/main.c0314403.js"
+    "static/js/main.fab08a69.js"
   ]
 }
